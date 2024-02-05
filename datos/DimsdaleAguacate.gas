@@ -1,0 +1,13 @@
+tipo:Corriente:14670:1000.0
+tipo:Gas:12500:1000.0
+tipo:Diesel:15000:1000.0
+tipo:UltraPlusPlus+:100000:1.0E11
+surtidor:Tomas:Corriente:0.0:Gas:0.0:Diesel:0.0:UltraPlusPlus+:0.0
+surtidor:Tomson:Corriente:0.0:Gas:0.0:Diesel:0.0:UltraPlusPlus+:0.0
+surtidor:Mamon1:Corriente:0.0:Gas:0.0:Diesel:0.0:UltraPlusPlus+:0.0
+surtidor:Ramon:Corriente:0.0:Gas:0.0:Diesel:0.0:UltraPlusPlus+:0.0
+empleado:Tomson:0
+empleado:Mamon1:0
+empleado:Tomas:0
+empleado:Ramon:0
+empleado:Dondimadon:0
